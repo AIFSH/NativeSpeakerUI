@@ -8,7 +8,9 @@ A webui framework for voice clone and lip sync based on [facefusion](https://git
     - [OpenVoice](https://github.com/myshell-ai/OpenVoice)
     - [FreeVC](https://github.com/OlaWod/FreeVC)
     - [so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork)
+    - [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
   - examples
+    - [【《交错战线》银羽AI日语同声传译配音 | 连夜睡服GPT-SoVITS，让它在NativeSpeakerUI里面提供同声传译1条龙服务】](https://www.bilibili.com/video/BV14c411x7Af/?share_source=copy_web&vd_source=453c36b4abef37acd389d4c01b149023)
     - [【《白荆回廊》岑缨的英文同声传译，40秒音频算法对比，谁赢了？】](https://www.bilibili.com/video/BV1mw41177fm/?share_source=copy_web&vd_source=453c36b4abef37acd389d4c01b149023)
 - lip sync
   - methods
