@@ -1,8 +1,9 @@
 # NativeSpeakerUI
 A webui framework for voice clone and lip sync based on [facefusion](https://github.com/facefusion/facefusion)
 ## News
--add surport  for Windows [【来啦！NativeSpeakerUI的Windows系统一键启动包】](https://www.bilibili.com/video/BV1ft42187SM/?share_source=copy_web&vd_source=453c36b4abef37acd389d4c01b149023)
--and Linux [【NativeSpeakerUI开放内测啦！融合了GPT-SoVITS等多种音色克隆算法和Wav2Lip等唇纹合成算法的1条龙服务软件】](https://www.bilibili.com/video/BV1xJ4m1b72f/?share_source=copy_web&vd_source=453c36b4abef37acd389d4c01b149023)
+- add surport  for Windows [【来啦！NativeSpeakerUI的Windows系统一键启动包】](https://www.bilibili.com/video/BV1ft42187SM/?share_source=copy_web&vd_source=453c36b4abef37acd389d4c01b149023)
+- and Linux [【NativeSpeakerUI开放内测啦！融合了GPT-SoVITS等多种音色克隆算法和Wav2Lip等唇纹合成算法的1条龙服务软件】](https://www.bilibili.com/video/BV1xJ4m1b72f/?share_source=copy_web&vd_source=453c36b4abef37acd389d4c01b149023)
+
 it may take a few days to open source but 
 You can Join WeChat group to participate in internal testing
 ## Features
